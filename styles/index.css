@@ -57,6 +57,7 @@ header{
 .signup-form input{
 	margin-top: 15px;
 	margin-bottom: 15px;
+	text-align: left;
 }
 
 .signup-form label{
